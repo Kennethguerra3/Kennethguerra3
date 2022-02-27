@@ -29,7 +29,7 @@
 #### :Lenguajes y herramientas de programación: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Kennethguerra3&show_icons=true&hide_border=true" />
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennethguerra3&layout=compact&show_icons=true&hide_border=true" />
 	
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
