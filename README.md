@@ -13,10 +13,10 @@
 #### 🌱  Cosas en las que estoy trabajando actualmente:: 
 - Terminar mi carrera en Ingeniería Informática  
 - Tomar cursos en línea sobre Ciencia de Datos y Aprendizaje Automático
-- Business on [warypos.com](https://github.com/bi4group) 🚀 *coming soon*
-- Business on [sidmop.com](https://github.com/bi4group) 🚀 *coming soon*
-- Business on [warbush.com](https://github.com/bi4group) 🚀 *coming soon*
-- Business on [debi.org.pe](https://github.com/bi4group) 🚀 *coming soon*
+- Negocios en [warypos.com](https://github.com/bi4group) 🚀 *próximamente*
+- Negocios en [sidmop.com](https://github.com/bi4group) 🚀 *próximamente*
+- Negocios en [warbush.com](https://github.com/bi4group) 🚀 *próximamente*
+- Negocios en [debi.org.pe](https://github.com/bi4group) 🚀 *próximamente*
 
 
 
@@ -26,10 +26,10 @@
 - Exercising 3 days a week
 - Improving my CV with some education apart from university
 
-#### :computer: Programming languages and tools: 
+#### :Lenguajes y herramientas de programación: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
-
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Kennethguerra3&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennethguerra3&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>	
