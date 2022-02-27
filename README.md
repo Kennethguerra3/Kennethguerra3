@@ -13,7 +13,12 @@
 #### 🌱  Cosas en las que estoy trabajando actualmente:: 
 - Terminar mi carrera en Ingeniería Informática  
 - Tomar cursos en línea sobre Ciencia de Datos y Aprendizaje Automático
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+- Business on [warypos.com](https://github.com/bi4group) 🚀 *coming soon*
+- Business on [sidmop.com](https://github.com/bi4group) 🚀 *coming soon*
+- Business on [warbush.com](https://github.com/bi4group) 🚀 *coming soon*
+- Business on [debi.org.pe](https://github.com/bi4group) 🚀 *coming soon*
+
+
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
