@@ -20,7 +20,7 @@
 
 
 
-#### :muscle: Things I am challenging myself with:
+#### :Cosas con las que me estoy desafiando a mí mismo:
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
 - Exercising 3 days a week
@@ -30,6 +30,12 @@
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Kennethguerra3&show_icons=true&hide_border=true" />
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennethguerra3&show_icons=true&hide_border=true" />
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>	
