@@ -15,8 +15,6 @@
 - Tomar cursos en línea sobre Ciencia de Datos y Aprendizaje Automático
 - Negocios en [warypos.com](https://github.com/bi4group) 🚀 *próximamente*
 - Negocios en [sidmop.com](https://github.com/bi4group) 🚀 *próximamente*
-- Negocios en [warbush.com](https://github.com/bi4group) 🚀 *próximamente*
-- Negocios en [debi.org.pe](https://github.com/bi4group) 🚀 *próximamente*
 
 
 
