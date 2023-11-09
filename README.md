@@ -7,7 +7,7 @@
 
 ¡Bienvenido a mi página de Github! ¡Soy Kenneth y actualmente estoy terminando Ingeniería Informática en la Universidad UTP!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/Kennethguerra3/DatX_frontend_PBI/blob/principal/src/assets/img/background.png" width="50%" height="auto" />
 
 
 #### 🌱  Cosas en las que estoy trabajando actualmente:: 
@@ -30,13 +30,14 @@
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennethguerra3&layout=compact&show_icons=true&hide_border=true" />
 	
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>	
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg"></code>	
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mapbox/mapbox-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 	
 <br />
 </p>
