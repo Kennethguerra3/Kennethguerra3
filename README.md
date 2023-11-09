@@ -7,7 +7,7 @@
 
 ¡Bienvenido a mi página de Github! ¡Soy Kenneth y actualmente estoy terminando Ingeniería Informática en la Universidad UTP!  
 
-<img align="right" alt="img" src="https://github.com/Kennethguerra3/DatX_frontend_PBI/blob/principal/src/assets/img/background.png" width="50%" height="auto" />
+<img align="right" alt="img" src="https://warbush.com/images//GIF/Working%20chart.gif" width="50%" height="auto" />
 
 
 #### 🌱  Cosas en las que estoy trabajando actualmente:: 
