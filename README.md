@@ -25,7 +25,7 @@
 
 Apasionada de la tecnología y disfrutando de una transición laboral al Data Analytics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
    
-* 🔭 Actualmente estoy trabajando en el departamento de compras de una empresa retail de alimentación pero necesito nuevos retos :muscle:  
+* 🔭 Actualmente estoy trabajando en el departamento de marketing de una empresa de consumo masivo pero necesito nuevos retos :muscle:  
 
 * 🌱 Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft. 
 
