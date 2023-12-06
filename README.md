@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kennethguerras) 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennethguerras) 
   [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgH0Z8WnVYucFhhcDKJTs3g)
 [![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://www.warbush.com/)
   
@@ -31,7 +31,7 @@ Apasionada de la tecnología y disfrutando de una transición laboral al Data An
 
 * ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo 
 
-* 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Jhon-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/kennethguerras)
+* 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Jhon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kennethguerras)
    
 
 
