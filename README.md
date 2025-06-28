@@ -9,7 +9,6 @@
 [![Página Web](https://img.shields.io/badge/P%C3%A1gina_Web-yellow?style=for-the-badge&logo=medium&logoColor=white)](https://www.warbush.com/)
   
 <div id="badges" align="center">
-  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Kennethguerra3.Kennethguerra3&color=00cf00" alt="Vista de perfil"/>
    
 <h1>
   ¡Hola! Soy Jhon. ¡Encantado de conocerte! 
