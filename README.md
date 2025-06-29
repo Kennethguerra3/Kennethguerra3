@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &nbsp;
-  <a href="https://www.youtube.com/c/YourChannelName" target="_blank"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  <a href="URL-DE-TU-YOUTUBE" target="_blank"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
   &nbsp;
   <a href="https://www.warbush.com/" target="_blank">
@@ -17,25 +17,24 @@
 
 <div align="center">
   <h1>
-    ¡Hola! Soy Jhon. ¡Encantado de conocerte!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    ¡Hola! Soy Jhon ✨ | Transformando Datos en Estrategias de Negocio
   </h1>
 </div>
 
 ---
 
-### 👩‍💻 Sobre mí
+### 💡 Sobre Mí
 
-Apasionado por la tecnología y en plena **transición profesional hacia el análisis de datos (Data Analytics)**. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+**Analista de Datos con background en Marketing.** Mi pasión es descubrir las historias que los números cuentan para optimizar procesos e impulsar el crecimiento de negocio.
 
-* 🔭 Actualmente trabajo en el departamento de marketing de una empresa de consumo masivo, pero busco nuevos desafíos. 💪
-* 🌱 Me estoy formando y practicando con **SQL y Python**, sin dejar de lado las potentes herramientas de Microsoft.
-* ❤️ Me encanta descubrir nuevas formas de **automatizar mi trabajo**.
-* 📫 ¿Quieres contactar conmigo? [Encuéntrame en LinkedIn](https://www.linkedin.com/in/kennethguerras).
+* 🔭 Actualmente aplico mis habilidades analíticas en el sector de consumo masivo y estoy **abierto a nuevos proyectos** donde pueda generar un gran impacto.
+* 🌱 Mi stack tecnológico principal incluye **Python y SQL**, potenciado con todo el ecosistema de Microsoft (**Power BI, Excel**) para el análisis, la visualización y la automatización de datos.
+* ❤️ Me especializo en convertir datos crudos en **insights accionables** que responden a preguntas de negocio clave.
+* 📫 **¿Tienes un proyecto en mente o quieres conectar?** ¡Hablemos por [LinkedIn](https://www.linkedin.com/in/kennethguerras)!
 
 ---
 
-### 🛠️ Lenguajes y Herramientas
+### 🛠️ Mi Stack Tecnológico
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -49,13 +48,13 @@ Apasionado por la tecnología y en plena **transición profesional hacia el aná
 
 ---
 
-### 🔥 Mis Estadísticas de GitHub
+### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Kennethguerra3&theme=dark&background=000000" alt="GitHub Streak"/>
   </a>
   <br><br> <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennethguerra3&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennethguerra3&layout=compact&theme=vision-friendly-dark&locale=es" alt="Lenguajes más usados"/>
   </a>
 </p>
