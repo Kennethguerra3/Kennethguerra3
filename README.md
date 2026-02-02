@@ -1,54 +1,93 @@
-# Hi, I'm Jhon 👋
+<div align="center">
+  <img src="https://github.com/Kennethguerra3/Kennethguerra3/blob/main/futurista.png" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="Futuristic Banner"/>
+</div>
 
-📍 **Lima ↔ The Cloud** | 📊 **Analytical Marketing Strategist** | 🚀 **Building at War Business Holding**
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=%C2%A1Hola!+Soy+Jhon+Guerra+%F0%9F%91%8B;Analytical+Marketing+Strategist;Data-Driven+Growth+%7C+War+Business+Holding;Transformando+Datos+en+Rentabilidad" alt="Typing SVG" />
+  </a>
+</h1>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/-ArcGIS-0079C1?style=flat-square&logo=esri&logoColor=white)
+<p align="center">
+  📍 <strong>Lima, Perú</strong> &nbsp;|&nbsp; 📊 <strong>Data Strategy & Growth</strong> &nbsp;|&nbsp; 🚀 <strong>War Business Holding LLC</strong>
+</p>
 
-> Deep in data-mining mode – transforming raw numbers into high-ROI business strategies. Bridging the gap between complex SQL queries and executive decision-making.
-
-🏢 **[War Business Holding LLC](https://www.warbush.com/)** – Currently leading data architecture and digital growth strategies.
-
-## 🛠️ Current Projects
-
-- 🗺️ **[CLIENTES_TACNA](https://github.com/Kennethguerra3/TU_REPO_AQUI)** - Geospatial intelligence engine. Transforms markers into business scores using Python & Arcpy.
-- 🎮 **[Onlicraft Core](https://github.com/Kennethguerra3/TU_REPO_AQUI)** - High-performance Minecraft infrastructure. Custom plugins & load balancing for non-premium user scaling.
-- 🔄 **[Migration-Ops](https://github.com/Kennethguerra3/TU_REPO_AQUI)** - Zero-downtime ETL pipelines. Moving critical B2C data from OVH to Railway/Azure with SQL Server.
-- 🛍️ **[Retail-Predictor](https://github.com/Kennethguerra3/TU_REPO_AQUI)** - Forecasting seasonal trends using historical sales data and Power BI integration.
-- 🤖 **[Auto-Report-Bot](https://github.com/Kennethguerra3/TU_REPO_AQUI)** - Python daemon that kills manual Excel reporting.
-
-## 📈 GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/Kennethguerra3)
-
-## ⚡ What I'm Doing
-
-- **Optimizing Infrastructure** - Migrating legacy databases to serverless architectures to reduce costs.
-- **Geospatial Analysis** - Creating balanced polygon zones for logistics optimization in Peru.
-- **Building Communities** - Scaling game servers to handle peak concurrent users without lag.
-
-## 🔗 Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennethguerras)
-[![Website](https://img.shields.io/badge/-WarBush.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.warbush.com/)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](TU_URL_YOUTUBE)
+<p align="center">
+  <a href="https://www.linkedin.com/in/kennethguerras" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.warbush.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Web-WarBush-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="TU_URL_DE_YOUTUBE" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Content-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### Philosophy
+### 🧠 Sobre Mí
 
-> "Data without context is noise. Data with strategy is revenue." — I build systems that don't just store information, but explain it.
+> **"Data without context is noise. Data with strategy is revenue."**
 
-<details>
-<summary>Random Facts</summary>
+Combino la lógica de la ingeniería de datos con la creatividad del marketing estratégico. Mi objetivo no es solo crear dashboards, sino construir sistemas que **tomen decisiones**.
 
-- ☕ Powered by strong coffee and SQL queries.
-- 🕹️ Managing servers since the Minecraft golden era.
-- 📊 I see spreadsheets in my sleep (and convert them to Dashboards).
-- 🇵🇪 Based in Peru, deploying globally.
+* 🔭 **Actualmente:** Liderando estrategias de datos y crecimiento en **War Business Holding LLC**.
+* 💡 **Filosofía:** "Ship beats perfect". Construyo herramientas que resuelven problemas reales hoy.
 
-</details>
+---
+
+### 🚀 Proyectos Destacados (Showcase)
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>📁 [NOMBRE DE TU PROYECTO 1]</h3>
+      <p align="left">Descripción breve y potente de tu proyecto principal. ¿Qué problema resuelve?</p>
+      <p>
+        <img src="https://img.shields.io/badge/Tecnologia_1-Color?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tecnologia_2-Color?style=flat-square&logo=github&logoColor=white"/>
+      </p>
+      <a href="ENLACE_A_TU_REPO_1"><strong>Explorar Código »</strong></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>📁 [NOMBRE DE TU PROYECTO 2]</h3>
+      <p align="left">Descripción breve de tu segundo proyecto más importante.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Tecnologia_A-Color?style=flat-square&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tecnologia_B-Color?style=flat-square&logo=javascript&logoColor=white"/>
+      </p>
+      <a href="ENLACE_A_TU_REPO_2"><strong>Explorar Código »</strong></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚡ Actividad Reciente
+
+* 🔄 **Optimizando:** Infraestructuras de datos para escalabilidad en entornos productivos.
+* 📊 **Analizando:** Estrategias de crecimiento basadas en insights de consumo.
+* 🛠️ **Construyendo:** Soluciones automatizadas para optimizar flujos de trabajo.
+
+---
+
+### 🛠️ Stack Tecnológico
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlserver,postgres,powerbi,excel&theme=dark" alt="Data Stack" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,git,github,vercel,azure,docker&theme=dark" alt="Web Stack" />
+</div>
+
+---
+
+### 📈 Métricas
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Kennethguerra3&theme=tokyonight&background=000000&hide_border=true&fire=E25822&ring=E25822&currStreakLabel=E25822" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kennethguerra3&show_icons=true&theme=tokyonight&bg_color=000000&hide_border=true&include_all_commits=true&count_private=true&locale=es&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6" alt="Estadísticas Generales" />
+</div>
