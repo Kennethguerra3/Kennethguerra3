@@ -43,11 +43,15 @@ Analista de Datos con background en Marketing. Mi pasión es descubrir las histo
     <td width="50%" valign="top">
       <h3>🐳 Docker & VPN</h3>
       <p><strong>Repo: tailscale-vpn-Docker</strong></p>
-      <p align="left">Despliegue de redes privadas seguras (Mesh VPN) automatizada con Docker.</p>
+      <p align="left">Despliegue de redes privadas seguras (Mesh VPN) automatizada con Docker. Plantilla oficial aprobada por Railway.</p>
       <p>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailscale-1E1E1E?style=flat-square&logo=tailscale&logoColor=white"/>
       </p>
+      <a href="https://railway.com/deploy/terrific-vitality?referralCode=DFuuA2&utm_medium=integration&utm_source=template&utm_campaign=generic" target="_blank">
+        <img src="https://railway.com/button.svg" height="30" alt="Deploy on Railway"/>
+      </a>
+      <br><br>
       <a href="https://github.com/Kennethguerra3/tailscale-vpn-Docker"><strong>Ver Repositorio »</strong></a>
     </td>
     <td width="50%" valign="top">
@@ -58,6 +62,7 @@ Analista de Datos con background en Marketing. Mi pasión es descubrir las histo
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
         <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
       </p>
+      <br>
       <a href="https://github.com/Kennethguerra3/SqlServer2022Docker"><strong>Ver Repositorio »</strong></a>
     </td>
   </tr>
