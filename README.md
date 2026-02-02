@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Kennethguerra3/Kennethguerra3/blob/main/banner.png?raw=true" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="Banner Principal"/>
+  <img src="https://github.com/Kennethguerra3/Kennethguerra3/blob/main/e34ee29c-6056-4793-96d8-47d1981d5eed_symbologycinematics-arrakeennights.png?raw=true" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="Banner Principal"/>
 </div>
 
 <h1 align="center">
