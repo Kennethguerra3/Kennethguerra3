@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://resumlo.com/warbush/Un%20café%20y%20charlemos" target="_blank">
-    <img src="https://img.shields.io/badge/☕_Agendar_Reunión-Charlemos-2ea44f?style=for-the-badge&logo=google-meet&logoColor=white"/>
+    <img src="https://img.shields.io/badge/☕_Invítame_un_Café-Agendar_Reunión-2ea44f?style=for-the-badge&logo=google-meet&logoColor=white"/>
   </a>
   <br>
   <a href="https://www.linkedin.com/in/kennethguerras" target="_blank">
@@ -100,18 +100,22 @@ Analista de Datos con background en Marketing. Mi pasión es descubrir las histo
 
 ---
 
-### 📈 Métricas de GitHub
+### 🏆 Logros y Métricas
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kennethguerra3&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="Trofeos" />
+  </a>
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/Kennethguerra3">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kennethguerra3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kennethguerra3&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas"/>
   </a>
-  
-  <br><br>
-  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennethguerra3&layout=compact&theme=tokyonight&hide_border=true&locale=es&title_color=3B82F6" />
   &nbsp;
-  <img height="165em" src="https://streak-stats.demolab.com/?user=Kennethguerra3&theme=tokyonight&hide_border=true&fire=E25822&ring=E25822&currStreakLabel=E25822" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennethguerra3&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes Top"/>
 </div>
 
 <br>
