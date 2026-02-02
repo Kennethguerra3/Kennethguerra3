@@ -1,24 +1,28 @@
 <div align="center">
-  <img src="https://github.com/Kennethguerra3/Kennethguerra3/blob/main/e34ee29c-6056-4793-96d8-47d1981d5eed_symbologycinematics-arrakeennights.png?raw=true" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="Banner Principal"/>
+  <img src="https://github.com/Kennethguerra3/Kennethguerra3/blob/main/e34ee29c-6056-4793-96d8-47d1981d5eed_symbologycinematics-arrakeennights.png?raw=true" width="600" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="Banner Principal"/>
 </div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=%C2%A1Hola!+Soy+Jhon+Guerra;Analytical+Marketing+Strategist;Data-Driven+Growth+%7C+War+Business+Holding;Transformando+Datos+en+Rentabilidad" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=%C2%A1Hola!+Soy+Jhon+Guerra;Analytical+Marketing+Strategist;Data-Driven+Growth;Transformando+Datos+en+Rentabilidad" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  📍 <strong>Lima, Perú</strong> &nbsp;|&nbsp; 📊 <strong>Data Strategy & Growth</strong> &nbsp;|&nbsp; 🚀 <strong>War Business Holding LLC</strong>
+  📍 <strong>Lima, Perú</strong> &nbsp;|&nbsp; 📊 <strong>Data Strategy & Growth</strong>
 </p>
 
 <p align="center">
+  <a href="https://resumlo.com/warbush/Un%20café%20y%20charlemos" target="_blank">
+    <img src="https://img.shields.io/badge/☕_Agendar_Reunión-Charlemos-2ea44f?style=for-the-badge&logo=google-meet&logoColor=white"/>
+  </a>
+  <br>
   <a href="https://www.linkedin.com/in/kennethguerras" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.warbush.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Web-WarBush-000000?style=flat-square&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Web-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -30,7 +34,7 @@
 
 Analista de Datos con background en Marketing. Mi pasión es descubrir las historias que los números cuentan para optimizar procesos e impulsar el crecimiento de negocio.
 
-* 🔭 **Actualmente:** Liderando estrategias de datos en **War Business Holding LLC**.
+* 🔭 **Actualmente:** Liderando estrategias de datos y arquitecturas escalables.
 * ⚡ **Enfoque:** De datos crudos → Insights accionables → Decisión de negocio.
 
 ---
@@ -100,12 +104,20 @@ Analista de Datos con background en Marketing. Mi pasión es descubrir las histo
 
 <div align="center">
   <a href="https://github.com/Kennethguerra3">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kennethguerra3&show_icons=true&theme=tokyonight&bg_color=000000&hide_border=true&include_all_commits=true&count_private=true&locale=es&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kennethguerra3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6"/>
   </a>
   
   <br><br>
   
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennethguerra3&layout=compact&theme=tokyonight&bg_color=000000&hide_border=true&locale=es&title_color=3B82F6" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennethguerra3&layout=compact&theme=tokyonight&hide_border=true&locale=es&title_color=3B82F6" />
   &nbsp;
-  <img height="165em" src="https://streak-stats.demolab.com/?user=Kennethguerra3&theme=tokyonight&background=000000&hide_border=true&fire=E25822&ring=E25822&currStreakLabel=E25822" />
+  <img height="165em" src="https://streak-stats.demolab.com/?user=Kennethguerra3&theme=tokyonight&hide_border=true&fire=E25822&ring=E25822&currStreakLabel=E25822" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://resumlo.com/warbush/Un%20café%20y%20charlemos">
+    <img src="https://img.shields.io/badge/¿Tienes_un_proyecto?-Agendemos_una_reunión_aquí-2ea44f?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Agendar Reunión" />
+  </a>
 </div>
