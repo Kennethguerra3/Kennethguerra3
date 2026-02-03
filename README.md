@@ -47,7 +47,7 @@ Al ver cómo la geolocalización estratégica aumentaba la cobertura y rentabili
       <p>
         <img src="https://img.shields.io/badge/Status-Ready_to_Deploy-2ea44f?style=flat-square"/>
       </p>
-      <a href="https://railway.com/deploy?template=https://github.com/Kennethguerra3/tailscale-vpn-Docker&referralCode=DFuuA2" target="_blank">
+      <a href="https://railway.com/deploy/terrific-vitality" target="_blank">
         <img src="https://railway.com/button.svg" height="35" alt="Deploy on Railway"/>
       </a>
     </td>
@@ -58,7 +58,7 @@ Al ver cómo la geolocalización estratégica aumentaba la cobertura y rentabili
       <p>
         <img src="https://img.shields.io/badge/Coste-Free_Tier_Compatible-blue?style=flat-square"/>
       </p>
-      <a href="https://railway.com/deploy?template=https://github.com/Kennethguerra3/ServidorSFTP&referralCode=DFuuA2" target="_blank">
+      <a href="https://railway.com/deploy/servidor-sftp-dockerizado-con-event-trig" target="_blank">
         <img src="https://railway.com/button.svg" height="35" alt="Deploy on Railway"/>
       </a>
     </td>
