@@ -76,7 +76,7 @@ Al ver cómo la geolocalización estratégica aumentaba la cobertura y rentabili
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Sistema PMS Dockerizado</h3>
+      <h3>⚙️ Sistema Plex PMS Dockerizado</h3>
       <p><strong>Repo: pms-docker-railway</strong></p>
       <p>Implementación en contenedores de un sistema PMS, preconfigurado para un despliegue ágil en la nube.</p>
       <p>
