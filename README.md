@@ -63,6 +63,30 @@ Al ver cómo la geolocalización estratégica aumentaba la cobertura y rentabili
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐬 Base de Datos MySQL</h3>
+      <p><strong>Repo: mysql-en-railway</strong></p>
+      <p>Despliega una instancia de MySQL optimizada y lista para conectar tus aplicaciones en segundos.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+      <a href="https://railway.com/deploy/mysql-en-railway" target="_blank">
+        <img src="https://railway.com/button.svg" height="35" alt="Deploy on Railway"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Sistema PMS Dockerizado</h3>
+      <p><strong>Repo: pms-docker-railway</strong></p>
+      <p>Implementación en contenedores de un sistema PMS, preconfigurado para un despliegue ágil en la nube.</p>
+      <p>
+        <img src="https://img.shields.io/badge/System-PMS_Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <a href="https://railway.com/deploy/pms-docker-railway" target="_blank">
+        <img src="https://railway.com/button.svg" height="35" alt="Deploy on Railway"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
