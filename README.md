@@ -12,22 +12,25 @@
 
 <table width="100%">
 <tr>
-<td width="35%" valign="top">
+<td width="40%" valign="top">
 <h3 align="center">📊 Mis Estadísticas</h3>
+
 <div align="center">
-<img src="https://img.shields.io/badge/Contributions-1%2C070-2ea44f?style=flat-square&logo=github&logoColor=white" alt="Contributions"/>
-<img src="https://img.shields.io/badge/Commits-3%2C085-blue?style=flat-square&logo=github" alt="Commits"/>
-<img src="https://img.shields.io/badge/Stars-302-CC2927?style=flat-square&logo=github" alt="Stars"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Power%20BI-300%20Dashboards-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI Dashboards"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kennethguerra3&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kennethguerra3&bg_color=transparent&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-300%2B_Dashboards_Creados-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Dashboards"/>
+</div>
+
 </td>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 <h3>🔗 Conecta conmigo</h3>
 <p>
 <a href="https://resumlo.com/warbush/Un%20café%20y%20charlemos" target="_blank">
