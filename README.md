@@ -8,29 +8,46 @@
   📍 <strong>Lima, Perú</strong> &nbsp;|&nbsp; 🏗️ <strong>Arquitecto de Soluciones de Negocio</strong>
 </p>
 
-<p align="center">
-  <a href="https://resumlo.com/warbush/Un%20café%20y%20charlemos" target="_blank">
-    <img src="https://img.shields.io/badge/Agendar_Reunion-Click_Aqui-2ea44f?style=for-the-badge&logo=google-calendar&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/kennethguerras" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
-### 🧠 Sobre Mí
-
-Mi perfil nace de la fusión entre la estrategia comercial y la ingeniería de datos.
-
-Durante más de 15 años gestioné ventas y marketing "en la cancha". Un momento clave en mi carrera fue cuando empecé a optimizar **rutas de venta y territorios comerciales** utilizando **MapInfo y ArcGIS**.
-
-Al ver cómo la geolocalización estratégica aumentaba la cobertura y rentabilidad de los equipos de venta, entendí el poder real de los datos. Esa experiencia definió mi enfoque actual: no solo desarrollo software, construyo soluciones que resuelven problemas logísticos y operativos que he vivido en primera persona.
-
-* 🗺️ **GIS & Logística:** Planificación de rutas y optimización territorial (MapInfo/ArcGIS).
-* 💼 **Gestión:** Visión de negocio adquirida liderando equipos comerciales.
-* 💻 **Tech:** Desarrollo de plataformas escalables para dar soporte a esa visión.
+<table width="100%">
+  <tr>
+    <td width="35%" valign="top">
+      <h3>📊 Mis Estadísticas</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Kennethguerra3&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777&icon_color=3B82F6" alt="GitHub Stats" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennethguerra3&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777" alt="Top Languages" />
+    </td>
+    <td width="65%" valign="top">
+      <h3>🔗 Conecta conmigo</h3>
+      <p>
+        <a href="https://resumlo.com/warbush/Un%20café%20y%20charlemos" target="_blank">
+          <img src="https://img.shields.io/badge/Agendar_Reunion-Click_Aqui-2ea44f?style=for-the-badge&logo=google-calendar&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://www.linkedin.com/in/kennethguerras" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+      </p>
+      
+      <h3>✨ Fun Facts & 🧠 Sobre Mí</h3>
+      <p>Mi perfil nace de la fusión entre la <strong>estrategia comercial</strong> y la <strong>ingeniería de datos</strong>.</p>
+      <ul>
+        <li>📈 Durante más de 15 años gestioné ventas y marketing "en la cancha".</li>
+        <li>🗺️ Un momento clave en mi carrera fue cuando empecé a optimizar <strong>rutas de venta y territorios comerciales</strong> utilizando <strong>MapInfo y ArcGIS</strong>.</li>
+        <li>💡 Al ver cómo la geolocalización estratégica aumentaba la rentabilidad, entendí el poder real de los datos.</li>
+        <li>🏗️ Esa experiencia definió mi enfoque actual: no solo desarrollo software, construyo soluciones que resuelven problemas logísticos y operativos que he vivido en primera persona.</li>
+      </ul>
+      <br/>
+      <p><strong>Mi enfoque técnico:</strong></p>
+      <ul>
+        <li>🗺️ <strong>GIS & Logística:</strong> Planificación de rutas y optimización territorial.</li>
+        <li>💼 <strong>Gestión:</strong> Visión de negocio adquirida liderando equipos comerciales.</li>
+        <li>💻 <strong>Tech:</strong> Desarrollo de plataformas escalables para dar soporte a esa visión.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
