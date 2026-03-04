@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=30&amp;pause=1000&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Hola!+Soy+Jhon+Guerra;Business+Solutions+Architect;GeoMarketing+Data;Estrategia+Comercial+%2B+Datos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hola!+Soy+Jhon+Guerra;Business+Solutions+Architect;GeoMarketing+Data;Estrategia+Comercial+%2B+Datos" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -12,37 +12,39 @@
 
 <table width="100%">
 <tr>
-<td width="35%" valign="top">
+<td width="40%" valign="top">
 <h3 align="center">📊 Mis Estadísticas</h3>
-<p align="center">
-  <a href="https://github.com/Kennethguerra3" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kennethguerra3&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=3B82F6&amp;text_color=777777&amp;icon_color=3B82F6" alt="GitHub Stats" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Kennethguerra3" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kennethguerra3&amp;theme=transparent&amp;hide_border=true&amp;title_color=3B82F6&amp;text_color=777777&amp;date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Kennethguerra3" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennethguerra3&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=3B82F6&amp;text_color=777777" alt="Top Languages" />
-  </a>
-</p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kennethguerra3&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kennethguerra3&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777&icon_color=3B82F6" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennethguerra3&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=777777" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kennethguerra3&bg_color=transparent&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
+
 </td>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 <h3>🔗 Conecta conmigo</h3>
 <p>
 <a href="https://resumlo.com/warbush/Un%20café%20y%20charlemos" target="_blank">
-<img src="https://img.shields.io/badge/Agendar_Reunion-Click_Aqui-2ea44f?style=for-the-badge&amp;logo=google-calendar&amp;logoColor=white" alt="Agendar"/>
+<img src="https://img.shields.io/badge/Agendar_Reunion-Click_Aqui-2ea44f?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Agendar"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/kennethguerras" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </p>
 
-<h3>✨ Fun Facts &amp; 🧠 Sobre Mí</h3>
+<h3>✨ Fun Facts & 🧠 Sobre Mí</h3>
 <p>Mi perfil nace de la fusión entre la <strong>estrategia comercial</strong> y la <strong>ingeniería de datos</strong>.</p>
 <ul>
 <li>📈 Durante más de 15 años gestioné ventas y marketing "en la cancha".</li>
@@ -53,7 +55,7 @@
 
 <p><strong>Mi enfoque técnico:</strong></p>
 <ul>
-<li>🗺️ <strong>GIS &amp; Logística:</strong> Planificación de rutas y optimización territorial.</li>
+<li>🗺️ <strong>GIS & Logística:</strong> Planificación de rutas y optimización territorial.</li>
 <li>💼 <strong>Gestión:</strong> Visión de negocio adquirida liderando equipos comerciales.</li>
 <li>💻 <strong>Tech:</strong> Desarrollo de plataformas escalables para dar soporte a esa visión.</li>
 </ul>
@@ -98,7 +100,7 @@
 <p><strong>Repo: mysql-en-railway</strong></p>
 <p>Despliega una instancia de MySQL optimizada y lista para conectar tus aplicaciones en segundos.</p>
 <p>
-<img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 <a href="https://railway.com/deploy/mysql-en-railway" target="_blank">
 <img src="https://railway.com/button.svg" height="35" alt="Deploy on Railway"/>
@@ -109,7 +111,7 @@
 <p><strong>Repo: pms-docker-railway</strong></p>
 <p>Implementación en contenedores de un sistema PMS, preconfigurado para un despliegue ágil en la nube.</p>
 <p>
-<img src="https://img.shields.io/badge/System-PMS_Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="PMS Docker"/>
+<img src="https://img.shields.io/badge/System-PMS_Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="PMS Docker"/>
 </p>
 <a href="https://railway.com/deploy/pms-docker-railway" target="_blank">
 <img src="https://railway.com/button.svg" height="35" alt="Deploy on Railway"/>
@@ -134,11 +136,11 @@
 <li>✅ CRM simple integrado.</li>
 </ul>
 <p align="center">
-<img src="https://img.shields.io/badge/Stripe-Supported-635BFF?style=flat-square&amp;logo=stripe&amp;logoColor=white" alt="Stripe"/>
-<img src="https://img.shields.io/badge/SaaS-Platform-000000?style=flat-square&amp;logo=google-chrome&amp;logoColor=white" alt="SaaS"/>
+<img src="https://img.shields.io/badge/Stripe-Supported-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
+<img src="https://img.shields.io/badge/SaaS-Platform-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="SaaS"/>
 </p>
 <a href="https://resumlo.com/" target="_blank">
-<img src="https://img.shields.io/badge/Ver_Proyecto-resumlo.com-2ea44f?style=for-the-badge&amp;logo=internet-explorer&amp;logoColor=white" alt="Resumlo"/>
+<img src="https://img.shields.io/badge/Ver_Proyecto-resumlo.com-2ea44f?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Resumlo"/>
 </a>
 </td>
 <td width="50%" valign="top">
@@ -151,11 +153,11 @@
 <li>✅ Procesamiento de datos (ETL).</li>
 </ul>
 <p align="center">
-<img src="https://img.shields.io/badge/Data-Analytics-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=black" alt="Data"/>
-<img src="https://img.shields.io/badge/Tech-Next.js-000000?style=flat-square&amp;logo=next.js&amp;logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Data-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Data"/>
+<img src="https://img.shields.io/badge/Tech-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
 </p>
 <a href="https://statdeck.lat/" target="_blank">
-<img src="https://img.shields.io/badge/Ver_Proyecto-statdeck.lat-8A2BE2?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="StatDeck"/>
+<img src="https://img.shields.io/badge/Ver_Proyecto-statdeck.lat-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="StatDeck"/>
 </a>
 </td>
 </tr>
@@ -165,12 +167,12 @@
 <p><strong>Punto de Venta (POS)</strong></p>
 <p>Sistema práctico para retail que maneja ventas, inventarios y facturación electrónica.</p>
 <p align="center">
-<img src="https://img.shields.io/badge/Retail-POS_System-FF5722?style=flat-square&amp;logo=shopify&amp;logoColor=white" alt="POS"/>
-<img src="https://img.shields.io/badge/Billing-Electronic-blue?style=flat-square&amp;logo=xero&amp;logoColor=white" alt="Facturación"/>
+<img src="https://img.shields.io/badge/Retail-POS_System-FF5722?style=flat-square&logo=shopify&logoColor=white" alt="POS"/>
+<img src="https://img.shields.io/badge/Billing-Electronic-blue?style=flat-square&logo=xero&logoColor=white" alt="Facturación"/>
 </p>
 <br/>
 <a href="http://warypos.com/" target="_blank">
-<img src="https://img.shields.io/badge/Ver_Sistema-warypos.com-FF5722?style=for-the-badge&amp;logo=internet-explorer&amp;logoColor=white" alt="Warypos"/>
+<img src="https://img.shields.io/badge/Ver_Sistema-warypos.com-FF5722?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Warypos"/>
 </a>
 </td>
 <td width="50%" valign="top">
@@ -178,12 +180,12 @@
 <p><strong>Automatización con WhatsApp</strong></p>
 <p>Integración de WhatsApp Business API con n8n para automatizar respuestas y flujos de ventas.</p>
 <p align="center">
-<img src="https://img.shields.io/badge/Meta-Business_API-0467DF?style=flat-square&amp;logo=meta&amp;logoColor=white" alt="Meta"/>
-<img src="https://img.shields.io/badge/Automation-n8n-FF6584?style=flat-square&amp;logo=n8n&amp;logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Meta-Business_API-0467DF?style=flat-square&logo=meta&logoColor=white" alt="Meta"/>
+<img src="https://img.shields.io/badge/Automation-n8n-FF6584?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
 </p>
 <br/>
 <a href="https://chat.statdeck.lat/" target="_blank">
-<img src="https://img.shields.io/badge/Ver_Demo-chat.statdeck.lat-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="WhathSend"/>
+<img src="https://img.shields.io/badge/Ver_Demo-chat.statdeck.lat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhathSend"/>
 </a>
 </td>
 </tr>
@@ -195,12 +197,12 @@
 
 | Proyecto | Descripción | Tech Stack |
 | :--- | :--- | :--- |
-| [**SqlServer2022Docker**](https://github.com/Kennethguerra3/SqlServer2022Docker) | Entorno SQL Server 2022 optimizado para desarrollo. | <img src="https://img.shields.io/badge/-SQL_2022-CC2927?style=flat-square&amp;logo=microsoft-sql-server&amp;logoColor=white" alt="SQL Server"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker"/> |
-| [**SqlServer2019Docker**](https://github.com/Kennethguerra3/SqlServer2019Docker) | Contenedor SQL Server 2019 para compatibilidad. | <img src="https://img.shields.io/badge/-SQL_2019-CC2927?style=flat-square&amp;logo=microsoft-sql-server&amp;logoColor=white" alt="SQL Server"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker"/> |
+| [**SqlServer2022Docker**](https://github.com/Kennethguerra3/SqlServer2022Docker) | Entorno SQL Server 2022 optimizado para desarrollo. | <img src="https://img.shields.io/badge/-SQL_2022-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> |
+| [**SqlServer2019Docker**](https://github.com/Kennethguerra3/SqlServer2019Docker) | Contenedor SQL Server 2019 para compatibilidad. | <img src="https://img.shields.io/badge/-SQL_2019-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> |
 
 ---
 
 <div align="center">
   <h3>🔥 Impacto Anual</h3>
-  <img src="https://img.shields.io/badge/Contributions_in_the_last_year-1,070-2ea44f?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=181717" alt="Contributions"/>
+  <img src="https://img.shields.io/badge/Contributions_in_the_last_year-1,070-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="Contributions"/>
 </div>
