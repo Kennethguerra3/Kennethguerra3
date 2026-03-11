@@ -116,6 +116,21 @@
 </a>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🗄️ SQL Server 2022</h3>
+<p><strong>Repo: SqlServer2022Docker</strong></p>
+<p>Entorno SQL Server 2022 optimizado para producción, persistente y listo para desplegar.</p>
+<p>
+<img src="https://img.shields.io/badge/Database-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+</p>
+<a href="https://railway.com/deploy/sql-server-2022-en-railway-optimizado?referralCode=DFuuA2&utm_medium=integration&utm_source=template&utm_campaign=generic" target="_blank">
+<img src="https://railway.com/button.svg" height="35" alt="Deploy on Railway"/>
+</a>
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 ---
@@ -195,7 +210,6 @@
 
 | Proyecto | Descripción | Tech Stack |
 | :--- | :--- | :--- |
-| [**SqlServer2022Docker**](https://github.com/Kennethguerra3/SqlServer2022Docker) | Entorno SQL Server 2022 optimizado para desarrollo. | <img src="https://img.shields.io/badge/-SQL_2022-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> |
 | [**SqlServer2019Docker**](https://github.com/Kennethguerra3/SqlServer2019Docker) | Contenedor SQL Server 2019 para compatibilidad. | <img src="https://img.shields.io/badge/-SQL_2019-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> |
 
 ---
@@ -203,4 +217,4 @@
 <div align="center">
   <h3>🔥 Impacto Anual</h3>
   <img src="https://img.shields.io/badge/Contributions_in_the_last_year-1,070-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="Contributions"/>
-</div>
+</div>v
