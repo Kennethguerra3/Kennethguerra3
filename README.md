@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Lima,%20Per%C3%BA-1f2937?style=flat-square"/>
   <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20Analytics%20Engineer%20%26%20Inteligencia%20Comercial-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/%F0%9F%97%BA%EF%B8%8F%20%2B15%20000%20negocios%20geolocalizados-1f2937?style=flat-square"/>
+  <img src="https://img.shields.io/badge/%F0%9F%97%BA%EF%B8%8F%20%2B180%20000%20negocios%20geolocalizados-1f2937?style=flat-square"/>
 </p>
 
 ---
@@ -24,7 +24,7 @@ Trabajo en la intersección del **Business Intelligence** y el **negocio**. Conv
 
 Diseño dashboards que se actualizan solos y dan visibilidad de KPIs a las áreas **comercial, de planeamiento y de finanzas**. Mi base es **Power BI, DAX, SQL, Python, procesos ETL/ELT y SAP HANA**.
 
-Lo que me diferencia es el cruce con la **inteligencia territorial**: geolocalicé más de **15 000 negocios** y planifiqué rutas de venta a nivel nacional con **MapInfo, QGIS y ArcGIS**. Esa mirada geoespacial aplicada a lo comercial es poco común.
+Lo que me diferencia es el cruce con la **inteligencia territorial**: geolocalicé más de **180 000 negocios** y planifiqué rutas de venta a nivel nacional con **MapInfo, QGIS y ArcGIS**. Esa mirada geoespacial aplicada a lo comercial es poco común.
 
 Además construyo producto: **[StatDeck](https://statdeck.lat/)** es mi plataforma de BI y optimización logística (visualización geoespacial, pipelines ETL y telemetría sobre stack cloud).
 
