@@ -287,19 +287,25 @@ Contenedor para escenarios de compatibilidad.
 
 ## Actividad en GitHub
 
+<!--
+  Estas tarjetas NO dependen de una instancia pública de Vercel: las genera el
+  workflow .github/workflows/summary-cards.yml y quedan versionadas en tu propio
+  repo, servidas por raw.githubusercontent.com. Por eso nunca se rompen.
+  Requisito: correr el workflow al menos una vez antes de que carguen.
+-->
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kennethguerra3&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=3B82F6&icon_color=3B82F6&text_color=8B949E&cache_seconds=86400" alt="Stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Kennethguerra3&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="Streak"/>
+  <img src="https://raw.githubusercontent.com/Kennethguerra3/Kennethguerra3/main/profile-summary-card-output/transparent/1-repos-per-language.svg" height="190" alt="Repos por lenguaje"/>
+  <img src="https://raw.githubusercontent.com/Kennethguerra3/Kennethguerra3/main/profile-summary-card-output/transparent/2-most-commit-language.svg" height="190" alt="Lenguajes más usados"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kennethguerra3&theme=transparent" height="180" alt="Repos por lenguaje"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kennethguerra3&theme=transparent" height="180" alt="Lenguajes más usados"/>
+  <img src="https://raw.githubusercontent.com/Kennethguerra3/Kennethguerra3/main/profile-summary-card-output/transparent/3-stats.svg" height="190" alt="Resumen de actividad"/>
+  <img src="https://raw.githubusercontent.com/Kennethguerra3/Kennethguerra3/main/profile-summary-card-output/transparent/4-productive-time.svg" height="190" alt="Horario productivo"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kennethguerra3&theme=transparent" height="180" alt="Resumen"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kennethguerra3&theme=transparent&utcOffset=-5" height="180" alt="Horario productivo"/>
+  <img src="https://streak-stats.demolab.com?user=Kennethguerra3&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" height="180" alt="Streak"/>
 </p>
 
 <p align="center">
