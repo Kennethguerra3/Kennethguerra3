@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/metricas.svg" width="100%" alt="Más de 180 000 negocios geolocalizados, 6 productos en producción, 65 despliegues en Railway, trabajando con datos desde 2016"/>
+  <img src="./assets/metricas.svg" width="100%" alt="Más de 180 000 negocios geolocalizados, 5 productos en producción, 65 despliegues en Railway, trabajando con datos desde 2016"/>
 </p>
 
 ## Sobre mí
@@ -40,7 +40,7 @@ Lo que me diferencia es el cruce con la **inteligencia territorial**. Geolocalic
 
 ## Productos propios
 
-Seis productos en producción. Haz clic en cualquiera para abrirlo.
+Cinco productos en producción. Haz clic en cualquiera para abrirlo.
 
 <p align="center">
   <a href="https://statdeck.lat/"><img src="./assets/producto-statdeck.svg" width="49%" alt="StatDeck: BI y optimización logística"/></a>
@@ -52,7 +52,6 @@ Seis productos en producción. Haz clic en cualquiera para abrirlo.
 </p>
 <p align="center">
   <a href="https://finanzaspe.up.railway.app/"><img src="./assets/producto-finanzaspe.svg" width="49%" alt="Finanzas PE: finanzas personales y de empresa"/></a>
-  <a href="https://chat.statdeck.lat/"><img src="./assets/producto-whathsend.svg" width="49%" alt="WhathSend: automatización con WhatsApp"/></a>
 </p>
 
 ## Plantillas en Railway
@@ -77,22 +76,8 @@ Infraestructura que uso en mis proyectos, publicada para que cualquiera la despl
 
 ## Actividad
 
-<!-- Las 4 tarjetas las genera .github/workflows/summary-cards.yml dentro de este repo. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kennethguerra3/Kennethguerra3/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt=""/>
-  <img src="https://raw.githubusercontent.com/Kennethguerra3/Kennethguerra3/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt=""/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kennethguerra3/Kennethguerra3/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt=""/>
-  <img src="https://raw.githubusercontent.com/Kennethguerra3/Kennethguerra3/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt=""/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kennethguerra3&theme=tokyonight&hide_border=true&border_radius=14&date_format=j%20M%5B%20Y%5D&ring=38BDF8&fire=2563EB&currStreakLabel=38BDF8" width="60%" alt=""/>
-</p>
-
-<!-- La serpiente la genera .github/workflows/snake.yml en la rama output. -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kennethguerra3/Kennethguerra3/output/snake-dark.svg" width="100%" alt=""/>
+  <img src="https://streak-stats.demolab.com?user=Kennethguerra3&theme=tokyonight&hide_border=true&border_radius=14&date_format=j%20M%5B%20Y%5D&ring=38BDF8&fire=2563EB&currStreakLabel=38BDF8" width="70%" alt=""/>
 </p>
 
 ## Hablemos
