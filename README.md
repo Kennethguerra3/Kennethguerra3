@@ -20,22 +20,12 @@ Complemento el análisis con **inteligencia territorial**: geolocalicé más de 
   <img src="./assets/practica-light.svg" width="100%" alt="01 BI y analítica operativa, 02 analítica comercial, 03 inteligencia territorial"/>
 </picture>
 
-## Trayectoria
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/trayectoria-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/trayectoria-light.svg"/>
-  <img src="./assets/trayectoria-light.svg" width="100%" alt="Línea de tiempo de 2010 a la actualidad: Fullcarga, DEHOCA y Dalisur; La Calera; Indupsa; Vida Software; Zendra Import; Industrias Fibraforte; Edata Group"/>
-</picture>
-
-Formación: Business Analytics: Data to Insights en The Wharton School (2022) y Marketing y Gestión Comercial en Zegel (en curso).
-
 ## Stack
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg"/>
-  <img src="./assets/stack-light.svg" width="100%" alt="BI y analítica: Power BI, DAX, Power Query, Looker, Python, Pandas. Ingeniería de datos: SQL, ETL/ELT, SAP HANA, SQL Server, PostgreSQL, MySQL, MongoDB Atlas. GIS y territorio: MapInfo, QGIS, ArcGIS, Google Maps API. Desarrollo web: TypeScript, React, Next.js, Node.js, Express, Vite, Tailwind. Infraestructura: Docker, Railway, Tailscale, n8n, Power Automate, Stripe, WhatsApp API"/>
+  <img src="./assets/stack-light.svg" width="100%" alt="BI y analítica: Power BI, DAX, Power Query, Looker, Python, Pandas. Ingeniería de datos: SQL, ETL/ELT, SAP HANA, SQL Server, PostgreSQL, MySQL, MongoDB. GIS y territorio: MapInfo, QGIS, ArcGIS, Google Maps API. Desarrollo web: TypeScript, React, Next.js, Node.js, Express, Vite, Tailwind. Infraestructura: Docker, Railway, Tailscale. Automatización y APIs: n8n, Power Automate, Stripe, WhatsApp API"/>
 </picture>
 
 ## Productos propios
